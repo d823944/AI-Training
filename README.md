@@ -1,1 +1,2 @@
-Training course: An Introduction to AI
+Training course:
+(1) An Introduction to AI (eMemory, 6/17/2020)
